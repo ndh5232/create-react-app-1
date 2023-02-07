@@ -7,8 +7,8 @@ function App() {
 <>
     <div class="outline">
       <div class="lecard">
-        <h2>Some Nerd</h2>
-        <img src="https://i.kym-cdn.com/news_feeds/icons/mobile/000/037/359/05b.jpg" alt="Obi-Wan headshot" />
+        <h2>Let Him Cook!</h2>
+        <img src="https://i.kym-cdn.com/entries/icons/facebook/000/041/943/1aa1blank.jpg" alt="Woody" />
         <p class="details">Hello there <br></br> Lightsaber go <i>brrrr</i></p>
       </div>
     </div>
